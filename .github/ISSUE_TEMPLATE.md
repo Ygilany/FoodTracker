@@ -7,8 +7,7 @@
 
 #### Possible Implementation
 
-
-
+#### References: <!-- This can be an email or a meeting, please include the date -->
 
 ### BUG
 ---------------------------------------------
