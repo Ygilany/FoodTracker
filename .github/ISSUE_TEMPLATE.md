@@ -1,4 +1,15 @@
-<!-- if you're reporting a bug, remove this line
+<!-- Fill out the appropriate section and delete the other. (BUG or Feature)-->
+
+### FEATURE
+---------------------------------------------
+#### Detailed Description
+
+
+#### Possible Implementation
+
+
+
+
 ### BUG
 ---------------------------------------------
 #### Detailed Description
@@ -16,17 +27,7 @@
 
 ##### Screenshot (if relevent): 
 
-if you're reporting a bug, remove this line-->
 
 
 
 
-<!-- if you're reporting a feature or an enhancement, remove this line
-### FEATURE
----------------------------------------------
-#### Detailed Description
-
-
-#### Possible Implementation
-
-if you're reporting a feature or an enhancement, remove this line -->
